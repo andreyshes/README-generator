@@ -31,7 +31,14 @@ THEN I am taken to the corresponding section of the README
 
 ## USAGE
 
+- open terminal and run node
+- answer propmted questions
+  -readme file will be created with answers
+
 ## VISUALS
+
+ <img src="Develop/images/Screenshot 2023-03-03 at 12.26.36 PM.png" alt="terminal images">
 
 ## CREDITS
 
+&#169 Andrey Shestopal
