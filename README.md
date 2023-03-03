@@ -41,4 +41,4 @@ THEN I am taken to the corresponding section of the README
 
 ## CREDITS
 
-&#169 Andrey Shestopal
+&Copy Andrey Shestopal
